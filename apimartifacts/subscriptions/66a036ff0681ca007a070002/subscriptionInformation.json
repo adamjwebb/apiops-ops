@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/9b6ae7b5-90fb-4b00-96b3-5a10cc0cb0a3/resourceGroups/aw-cace-rg-apiops/providers/Microsoft.ApiManagement/service/aw-cace-apim-apiops-dev/products/unlimited",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/9b6ae7b5-90fb-4b00-96b3-5a10cc0cb0a3/resourceGroups/aw-cace-rg-apiops/providers/Microsoft.ApiManagement/service/aw-cace-apim-apiops-dev/users/1",
+    "state": "active"
+  }
+}
